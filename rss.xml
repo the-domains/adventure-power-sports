@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adventure Power Sports]]></title>
+        <description><![CDATA[Adventure Power Sports]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jul 2016 15:00:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Suspensions by Sasquatch]]></title>
+            <description><![CDATA[<article><h1>Suspensions by Sasquatch</h1><p>First you need to measure the sag in the same way I described in my last blog post.Your forks should sag between 1/4 and 1/3 the distance of your full suspension travel, which you will need to look at your bike's specification sheet to find out that number.As an example, if you have 10" of total fork travel, your total loaded sag should be between 2.5" and 3.3".</p></article>]]></description>
+            <link>http://sasquatchrider.blogspot.com/</link>
+            <guid isPermaLink="false">e78c9957-07e1-4ed4-880d-9e7b5d490ed6</guid>
+            <pubDate>Sat, 02 Jul 2016 14:59:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
