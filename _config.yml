@@ -1,4 +1,3 @@
-layout_spectrum: 0.6827541538514197
 typography_spectrum: 0.7969557233154774
 color:
   brandStrength: 0.21965073281899095
@@ -11,6 +10,11 @@ color:
     - '#306E73'
     - '#3B424D'
     - '#1D181F'
-name: Adventure Power Sports
+layout_spectrum: 0.6827541538514197
+author:
+  name: Jay Jobes
+  email: apseagle@gmail.com
+  url: www.adventurepowersports.us
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/23e2531e-deed-4f2b-9761-c6ab411beb95.png
+name: Adventure Power Sports
