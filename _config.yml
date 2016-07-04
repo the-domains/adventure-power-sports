@@ -1,16 +1,16 @@
-typography_spectrum: 0.7969557233154774
+typography_spectrum: 0.8745831700507551
 color:
-  brandStrength: 0.21965073281899095
-  lightness: 0.5136105879209936
-  saturation: 0.1887612701393664
-  rhythmicContrast: 0.3258107416331768
+  brandStrength: 0.6833570359740406
+  lightness: 0.03406604123301804
+  saturation: 0.24684227397665381
+  rhythmicContrast: 0.5603712387382984
   brandColors:
-    - '#FF5335'
-    - '#B39C85'
-    - '#306E73'
-    - '#3B424D'
-    - '#1D181F'
-layout_spectrum: 0.6827541538514197
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.4965582168661058
 author:
   name: Jay Jobes
   email: apseagle@gmail.com
